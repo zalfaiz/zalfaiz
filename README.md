@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Faizal**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas Brawijaya](https://ub.ac.id/id/).<br>
+Saya seorang **mahasiswa** di [Universitas Brawijaya](https://ub.ac.id/id/).<br>
 
 Saya sekarang sedang mengikuti program MSIB Bangkit Academy dengan kelas Machine Learning.<br>
 
